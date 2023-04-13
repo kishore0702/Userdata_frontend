@@ -1,0 +1,33 @@
+.navbar{
+text-align: center;
+justify-content: center;
+background-color: red;
+color: aliceblue;
+padding: 10px;
+}
+
+.main{
+  display: flex;
+  text-align:center;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.icon{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.navigation-btn{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.create-form{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
